@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an eager full stack software development student about to graduate and excited to continue to expand my abilities in the workplace.  This entire repository is from projects that I have done over the last 4 months with techniques and tools I have learned during that time.  I have kept even my most rudimentary projects as a reminder of how far I have come.  I hope you enjoy perusing my work.  Cheers!
+I'm an eager full stack software developer excited to continue to expand my abilities in the workplace.
 <!--
 **jmlden36/jmlden36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
